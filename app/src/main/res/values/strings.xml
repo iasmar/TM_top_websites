@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Rome</string>
+
+
+    //desc
+
+
+    <!--App Message-->
+    <string name="error_api_service_unavailable">Service unavailable please try again later! \t Swipe down to retry</string>
+    <string name="error_api_default">Something wrong happened! \t Swipe down to retry</string>
+    <string name="connection_error">Internet connection lost! \t Swipe down to retry</string>
+    <string name="error_default">Some error occurred! \t Swipe down to refresh</string>
+
+
+    <!-- Strings related to login -->
+
+
+    <string name="topFives">TopFive</string>
+    <string name="name">Name</string>
+    <string name="date">Date</string>
+    <string name="total_visits">Total visits</string>
+    <string name="websites_ranking">Websites Ranking</string>
+    <string name="top_five_graph_format">Top five graph format</string>
+
+  <string name="start_date"><u>Start Date </u></string>
+  <string name="end_date"><u>End Date </u></string>
+
+    <string name="filter">Filter</string>
+    <string name="all">All</string>
+    <string name="sort">Sort</string>
+
+
+</resources>
